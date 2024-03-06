@@ -1,15 +1,26 @@
-    h1 {
-     text-align: center;
-       }
-
-    header{
-       text-align: center;
-          }
-
-   p {
-       font-family: sans-serif; 
-    }
-   body{
-       background-color: whitesmoke;
-      }
-   
+h1{
+   text-align: center;
+}
+/* aqui eu centralizei o header no centro */
+header{
+   text-align: center;
+}
+/* aqui eu mudei a fonte dos textos */
+p{
+   font-family: sans-serif; 
+}
+/* aqui eu mudei a cor de fundo da página */
+body{
+   background-color: black;
+}
+/* Aqui eu mudei a cor dos textos */ 
+h2, h3, p, li{ 
+   color: white;
+}
+/* aqui eu mudei a cor do link */
+a{
+   color: cyan;
+}
+footer{
+   background-color: gray;
+}
